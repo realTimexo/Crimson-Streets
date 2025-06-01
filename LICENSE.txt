@@ -1,0 +1,29 @@
+Crimson Streets – CAM v1.0  
+© 2025 Timexo Studios. All rights reserved.
+
+1. Copyright & Ownership  
+This game, Crimson Streets, is the intellectual property of Timexo Studios. All game content, including but not limited to code, assets, models, sounds, and branding, is protected under copyright law. Unauthorized copying, distribution, resale, or reproduction of the game or its components is strictly prohibited.
+
+2. Modding Policy  
+You are allowed to create and publish modifications ("mods") for Crimson Streets under the following conditions:
+   - Mods must not include any original game files.
+   - Mods must only function with a legitimate, original version of the game.
+   - Mods may not be used for commercial purposes without prior written permission.
+   - Mods must not contain illegal, offensive, or infringing content.
+   - All mods must clearly state that they are unofficial and not affiliated with or endorsed by Timexo Studios.
+
+3. Reverse Engineering  
+Decompilation, reverse engineering, or tampering with the game executable or assets for the purpose of bypassing restrictions, reusing code, or creating unofficial copies is forbidden.
+
+4. Streaming & Content Creation  
+You are allowed to create and monetize videos, livestreams, reviews, or other content featuring Crimson Streets, provided the content complies with these license terms.
+
+5. Commercial Licensing  
+For inquiries about distribution, commercial licensing, or partnership opportunities, please contact:
+
+📧 support@timexostudios.wuaze.com  
+🌐 https://timexostudios.wuaze.com
+
+---
+
+This license may be updated in the future. By using the game, you agree to these terms.
