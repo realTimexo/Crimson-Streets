@@ -43,7 +43,7 @@ An open-world action game in a massive city with three unique islands. Walk, dri
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **CAM LICENSE**.  
 See the full license terms in the [LICENSE.txt](LICENSE.txt) file.
 
 ---
