@@ -1,15 +1,15 @@
-Crimson Streets – CAM v1.0  
+Crimson Streets – CAM v2.0  
 © 2025 Timexo Studios. All rights reserved.
 
 1. Copyright & Ownership  
 This game, Crimson Streets, is the intellectual property of Timexo Studios. All game content, including but not limited to code, assets, models, sounds, and branding, is protected under copyright law. Unauthorized copying, distribution, resale, or reproduction of the game or its components is strictly prohibited.
 
 2. Modding Policy  
-You are allowed to create and publish modifications ("mods") for Crimson Streets under the following conditions:
-   - Mods must not include any original game files.
-   - Mods must only function with a legitimate, original version of the game.
-   - Mods may not be used for commercial purposes without prior written permission.
-   - Mods must not contain illegal, offensive, or infringing content.
+You are allowed to create and publish modifications ("mods") for Crimson Streets under the following conditions:  
+   - Mods must not include any original game files.  
+   - Mods must only function with a legitimate, original version of the game.  
+   - Mods may not be used for commercial purposes without prior written permission.  
+   - Mods must not contain illegal, offensive, or infringing content.  
    - All mods must clearly state that they are unofficial and not affiliated with or endorsed by Timexo Studios.
 
 3. Reverse Engineering  
@@ -23,6 +23,30 @@ For inquiries about distribution, commercial licensing, or partnership opportuni
 
 📧 support@timexostudios.wuaze.com  
 🌐 https://timexostudios.wuaze.com
+
+6. Online Services & Conduct  
+Crimson Streets may offer online features or multiplayer connectivity. By participating in any online mode, you agree to treat other players with respect.  
+   - Hate speech, harassment, discrimination, or abusive behavior is strictly prohibited.  
+   - Timexo Studios reserves the right to restrict access to online features for users who violate this policy.  
+   - Online features may be modified, suspended, or terminated at any time without notice.
+
+7. Anti-Cheat & Modding in Online Play  
+You are free to use cheats, hacks, or mods in **offline** mode for personal use. However, the following rules apply:  
+   - The use of cheats, hacks, or modified clients in **online** gameplay is strictly prohibited.  
+   - Any unfair advantage, automation, or tampering that affects the experience of others in multiplayer is forbidden.  
+   - Violations may result in account or access bans from online services.
+
+8. Age & Content Rating  
+Crimson Streets is intended for players aged 16+ due to themes including violence, mature dialogue, and stylized action. It is your responsibility to comply with local age restrictions and content advisories.
+
+9. Termination of License  
+This license may be terminated without notice if you breach any terms. Upon termination, you must delete all copies of the game and cease all use.
+
+10. Disclaimer of Warranty  
+This game is provided “as is.” Timexo Studios makes no warranties, express or implied, regarding the functionality or fitness for a particular purpose. Use of the game is at your own risk.
+
+11. Governing Law  
+This agreement is governed by the laws of Germany and the European Union (EU). Any disputes shall be resolved through local courts or arbitration as permitted by applicable law.
 
 ---
 
