@@ -1,4 +1,4 @@
-![Banner](https://assets.onecompiler.app/432jwxm7x/43h9k246n/InShot_20250509_223322318.jpg)
+![Banner](https://assets.onecompiler.app/432jwxm7x/43kfmhabr/InShot_20250601_120011323.jpg)
 
 ![License](https://assets.onecompiler.app/432jwxm7x/43kfmhabr/image71.png)  
 [![Chat on Discord](https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white)](https://discord.gg/9YKC3e2s4N)  
